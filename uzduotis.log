@@ -1,0 +1,8 @@
+2022-11-08 21:40:25,194:INFO:__main__:Skaiciu ((1, 2, 6),) suma lygi: 9
+2022-11-08 21:41:03,256:INFO:__main__:Skaiciu ((1, 2, 6),) suma lygi: 9
+2022-11-08 21:41:03,256:ERROR:__main__:Ivestas tekstas
+Traceback (most recent call last):
+  File "/Users/justas/PycharmProjects/pythonProject10/1 uzduotis.py", line 29, in saknis
+    rezas = math.sqrt(a)
+TypeError: must be real number, not str
+2022-11-08 21:41:03,257:INFO:__main__:Sakinio batai buvo du ilgis: 13
